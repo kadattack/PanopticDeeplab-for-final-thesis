@@ -1,4 +1,4 @@
-This code was forked from https://github.com/bowenc0221/panoptic-deeplab and modified for my final thesis Panoptic Segmentation For Detecting Marine Obstacles.
+This code was forked from https://github.com/bowenc0221/panoptic-deeplab and modified for my final thesis: Panoptic Segmentation For Detecting Marine Obstacles.
 
 
 
