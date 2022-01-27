@@ -1,3 +1,7 @@
+This code was forked from https://github.com/bowenc0221/panoptic-deeplab and modified for my final thesis Panoptic Segmentation For Detecting Marine Obstacles.
+
+
+
 # Panoptic-DeepLab (CVPR 2020)
 
 Panoptic-DeepLab is a state-of-the-art bottom-up method for panoptic segmentation, 
